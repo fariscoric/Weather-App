@@ -1,0 +1,21 @@
+.WeatherCard {
+    width: 350px;
+    height: 500px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: gray;
+}
+.mainTemp {
+    font-size: 100px;
+}
+
+.changeButton {
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    border: 3px solid white;
+    border-radius: 5px;
+}
